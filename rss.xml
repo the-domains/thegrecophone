@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[The Grecophone]]></title>
         <description><![CDATA[The Grecophone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thegrecophone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 06:44:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 06:52:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thegrecophone/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefined55fcf0ad-3957-4172-8e6c-5ce7d2bbeed5/index.html</link>
+            <title><![CDATA[GUIDE]]></title>
+            <description><![CDATA[<p>ACADEMY SOCIAL CLUBPresident: Mr. Andreas Savvides 142 Chase Way, Southgate, London N14 5DH Tel: 020 8361 8288 & 8445 2349</p>]]></description>
+            <link>https://thegrid.ai/thegrecophone/55fcf0ad-3957-4172-8e6c-5ce7d2bbeed5/index.html</link>
             <guid isPermaLink="false">55fcf0ad-3957-4172-8e6c-5ce7d2bbeed5</guid>
-            <pubDate>Wed, 27 Apr 2016 06:43:53 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 06:52:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
